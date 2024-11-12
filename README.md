@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=300&pause=1000&color=FFD700&background=FF929200&center=true&vCenter=true&multiline=true&width=470&height=100&lines=Hi+my+friend...;welcome...;to+my+Github+profile" alt="Typing SVG" /></a>
-
+<div align="center"></div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=300&size=30&pause=1000&color=FFD700&background=FF929200&center=true&vCenter=true&multiline=true&width=470&height=100&lines=Hi+my+friend;welcome;to+my+Github+profile" alt="Typing SVG" />
+</a>
 
 
 
