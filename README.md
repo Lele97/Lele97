@@ -24,12 +24,13 @@
 
 <br />
 
+<!--
 ### 🛠️ Tech Stack & Focus
 - ⚛️ **Frontend:** React, Next.js, Vite
 - 🍃 **Backend:** Java Spring Boot
 - 🚀 **Goal:** Performance optimization & clean architecture
 
-<!--
+
 ## Hi there 👋
 - 🔭 I’m currently working on: Refactoring my public projects
 - 🌱 I’m currently learning: Advanced Spring Boot patterns & React performance
