@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="cat coding gif"/>
 </div>
 
-<h1 align="center">Hey, I'm Gabriele Grandinetti👋</h1>
+<h1 align="center">Hey, I'm Gabriele Grandinetti 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer</b>
@@ -10,13 +10,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriele-grandinetti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriele%20Grandinetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriele%20Grandinetti-0077B5?style=social&logo=linkedin&logoColor=0077B5"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://gabrielegrandinetti.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-gabrielegrandinetti.dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-gabrielegrandinetti.dev-000000?style=social&logo=codeforces&logoColor=1F8ACB"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:gabriele.grandinetti@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-gabriele.grandinetti@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-gabriele.grandinetti@hotmail.com-D14836?style=social&logo=gmail&logoColor=D14836"/>
   </a>
 </p>
 
@@ -93,6 +95,7 @@ I care deeply about code quality — static analysis, security scanning, and wel
   <a href="https://github.com/Lele97/PagaTu-Backend">
     <img src="https://img.shields.io/badge/Backend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Lele97/PagaTu-Frontend">
     <img src="https://img.shields.io/badge/Frontend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -103,8 +106,9 @@ I care deeply about code quality — static analysis, security scanning, and wel
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lele97&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lele97&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Lele97&theme=tokyonight&hide_border=true" height="165"/>
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lele97&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
