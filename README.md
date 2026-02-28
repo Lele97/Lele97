@@ -9,19 +9,17 @@
 </p>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/gabriele-grandinetti/" target="_blank">
-    <img src="https://img.shields.io/badge/Gabriele%20Grandinetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://gabrielegrandinetti.dev" target="_blank">
-    <img src="https://img.shields.io/badge/gabrielegrandinetti.dev-222222?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:gabriele.grandinetti@hotmail.com">
-    <img src="https://img.shields.io/badge/gabriele.grandinetti@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
-
 </p>
 
 ---
