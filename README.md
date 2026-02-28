@@ -9,17 +9,19 @@
 </p>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/gabriele-grandinetti/" target="_blank">
-    <img height="28" src="https://img.shields.io/badge/LinkedIn-Gabriele%20Grandinetti-0077B5?style=social&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/Gabriele%20Grandinetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://gabrielegrandinetti.dev" target="_blank">
-    <img height="28" src="https://img.shields.io/badge/Portfolio-gabrielegrandinetti.dev-black?style=social&logo=dev.to"/>
+    <img src="https://img.shields.io/badge/gabrielegrandinetti.dev-222222?style=for-the-badge&logo=githubpages&logoColor=white&logoWidth=20"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:gabriele.grandinetti@hotmail.com">
-    <img height="28" src="https://img.shields.io/badge/Email-gabriele.grandinetti@hotmail.com-D14836?style=social&logo=gmail"/>
+    <img src="https://img.shields.io/badge/gabriele.grandinetti@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&logoWidth=20"/>
   </a>
+
 </p>
 
 ---
@@ -106,19 +108,14 @@ I care deeply about code quality — static analysis, security scanning, and wel
 ## 📊 GitHub Stats
 
 <div align="center">
-
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Lele97&theme=tokyonight&hide_border=true" height="160"/>
-
-  <br/><br/>
-
   <!-- Badges da GitHub API (via shields.io → api.github.com/users/Lele97) -->
   <img src="https://img.shields.io/github/followers/Lele97?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
   &nbsp;
   <img src="https://img.shields.io/github/stars/Lele97?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Lele97&style=for-the-badge&color=1a1b27&label=Profile+Views"/>
-
 </div>
 
 ---
