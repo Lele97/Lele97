@@ -2,10 +2,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="cat coding gif"/>
 </div>
 
-<h1 align="center">Hey, I'm Gabriele 👋</h1>
+<h1 align="center">Hey, I'm Gabriele Grandinetti👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Developer</b> · Java & Spring Boot · React & Next.js · Clean Code Enthusiast
+  <b>Full-Stack Developer</b>
 </p>
 
 <p align="center">
@@ -29,8 +29,8 @@ I specialize in **Java / Spring Boot** for backend and **React / Next.js** for f
 
 I care deeply about code quality — static analysis, security scanning, and well-tested software are non-negotiable parts of my workflow.
 
-- 🏙️ Based in **Milan, Italy**
-- 🔭 Currently working on **PagaTu** — my personal full-stack project
+- 🏙️ Based in **Naples, Italy**
+- 🔭 Currently working on **PagaTu** — my personal project
 - 💡 Passionate about **clean architecture**, **CI/CD automation**, and **developer experience**
 - 🌐 Fluent in: 🇮🇹 Italian · 🇬🇧 English · 🇪🇸 Spanish
 
