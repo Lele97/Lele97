@@ -108,7 +108,7 @@ I care deeply about code quality — static analysis, security scanning, and wel
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Lele97&theme=tokyonight&hide_border=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lele97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+ <img src="https://github-top-languages.vercel.app/api?username=Lele97&theme=tokyonight&hide_border=true&layout=donut" height="165"/>
 </div>
 
 ---
