@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriele-grandinetti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriele%20Grandinetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-Gabriele%20Grandinetti-0077B5?style=social&logo=linkedin"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://gabrielegrandinetti.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-gabrielegrandinetti.dev-000000?style=for-the-badge&logo=code&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/Portfolio-gabrielegrandinetti.dev-black?style=social&logo=dev.to"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:gabriele.grandinetti@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-gabriele.grandinetti@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/Email-gabriele.grandinetti@hotmail.com-D14836?style=social&logo=gmail"/>
   </a>
 </p>
 
@@ -107,12 +107,8 @@ I care deeply about code quality — static analysis, security scanning, and wel
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Lele97&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lele97&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lele97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </div>
 
 ---
