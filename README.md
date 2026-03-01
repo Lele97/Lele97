@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/website-gabrielegrandinetti.dev-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff"/>
   </a>
 
-  <a href="mailto:gabriele.grandinetti@hotmail.com">
+  <a href="mailto:gabriele.grandinetti@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-gabriele.grandinetti%40hotmail.com-0078D4?style=for-the-badge&logo=mailgun&logoColor=%23ffffff"/>
   </a>
 </p>
