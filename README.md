@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="mailto:gabriele.grandinetti@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/email-gabriele.grandinetti%40hotmail.com-0078D4?style=for-the-badge&logo=mailgun&logoColor=%23ffffff"/>
   </a>
 </p>
 
