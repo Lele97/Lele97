@@ -111,9 +111,9 @@ I care deeply about code quality — static analysis, security scanning, and wel
   <br></br>
   <!-- Badges da GitHub API (via shields.io → api.github.com/users/Lele97) -->
 <img src="https://img.shields.io/github/followers/Lele97?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
-&nbsp;
+
 <img src="https://img.shields.io/github/stars/Lele97?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
-&nbsp;
+
 <img src="https://komarev.com/ghpvc/?username=Lele97&style=for-the-badge&color=1a1b27&label=Profile+Views&abbreviated=true"/>
 </div>
 
