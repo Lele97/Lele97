@@ -16,7 +16,7 @@
   <a href="https://gabrielegrandinetti.dev" target="_blank">
     <img src="https://img.shields.io/badge/website-gabrielegrandinetti.dev-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff"/>
   </a>
-  
+
   <a href="mailto:gabriele.grandinetti@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-gabriele.grandinetti%40hotmail.com-0078D4?style=for-the-badge&logo=mailgun&logoColor=%23ffffff"/>
   </a>
@@ -109,29 +109,12 @@ I care deeply about code quality — static analysis, security scanning, and wel
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Lele97&theme=tokyonight&hide_border=true" height="160"/>
   <br></br>
-  
-  <!-- GitHub Stats Overview -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Lele97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lele97&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
-      </td>
-    </tr>
-  </table>
-  
   <!-- Badges da GitHub API (via shields.io → api.github.com/users/Lele97) -->
-  <img src="https://img.shields.io/github/followers/Lele97?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
-  
-  <img src="https://img.shields.io/github/stars/Lele97?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
-  
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lele97&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
-  
-  <!-- Additional Tech Stack Stats -->
-  <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lele97&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://img.shields.io/github/followers/Lele97?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/github/stars/Lele97?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lele97&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
 </div>
 
 ---
