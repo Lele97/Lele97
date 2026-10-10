@@ -3,7 +3,7 @@
 <img src="ezgif.com-resize.gif" width="500" alt="cat coding gif"/>
 <h1 align="center">Hey, I'm Gabriele Grandinetti 👋</h1>
 <h6>Full-Stack Developer</h6>
-</div>
+</div> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriele-grandinetti/" target="_blank">
