@@ -1,7 +1,6 @@
 <div align="center">
    <!-- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="cat coding gif"/>-->
    <img src="ezgif.com-resize.gif" width="500" alt="cat coding gif"/>
-   <img src="Working Home Office GIF by Caats.gif" width="500" alt="cat coding gif"/>
 </div>
 
 <h1 align="center">Hey, I'm Gabriele Grandinetti 👋</h1>
