@@ -22,8 +22,6 @@
   </a>
 </p>
 
----
-
 ## 🧑‍💻 About Me
 
 I'm a Software Developer with **8+ years of experience** building robust backend architectures and clean, maintainable frontends.  
@@ -36,7 +34,6 @@ I care deeply about code quality — static analysis, security scanning, and wel
 - 💡 Passionate about **clean architecture**, **CI/CD automation**, and **developer experience**
 - 🌐 Fluent in: 🇮🇹 Italian · 🇬🇧 English · 🇪🇸 Spanish
 
----
 
 ## 🛠️ Tech Stack
 
@@ -77,7 +74,6 @@ I care deeply about code quality — static analysis, security scanning, and wel
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
----
 
 ## 🚀 Featured Project — PagaTu
 
@@ -101,7 +97,6 @@ I care deeply about code quality — static analysis, security scanning, and wel
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
