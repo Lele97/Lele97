@@ -117,6 +117,10 @@ I care deeply about code quality — static analysis, security scanning, and wel
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lele97&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
 </div>
 
+![](https://github-readme-stats.shion.dev/api?username=Lele97&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Lele97&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lele97&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Lele97/Lele97/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
