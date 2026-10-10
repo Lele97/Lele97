@@ -116,9 +116,3 @@ I care deeply about code quality — static analysis, security scanning, and wel
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lele97&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
 </div>
-
----
-
-<p align="center">
-  <i>"Quality is not an act, it is a habit."</i> — Aristotle
-</p>
