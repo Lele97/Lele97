@@ -1,13 +1,9 @@
 <div align="center">
-   <!-- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="cat coding gif"/>-->
-   <img src="ezgif.com-resize.gif" width="500" alt="cat coding gif"/>
-</div>
-
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="cat coding gif"/>-->
+<img src="ezgif.com-resize.gif" width="500" alt="cat coding gif"/>
 <h1 align="center">Hey, I'm Gabriele Grandinetti 👋</h1>
-
-<p align="center">
-  <b>Full-Stack Developer</b>
-</p>
+<h6>Full-Stack Developer</h6>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriele-grandinetti/" target="_blank">
