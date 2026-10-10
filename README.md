@@ -92,7 +92,6 @@ I care deeply about code quality — static analysis, security scanning, and wel
     <img src="https://img.shields.io/badge/Backend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  
   <a href="https://github.com/Lele97/PagaTu-Frontend">
     <img src="https://img.shields.io/badge/Frontend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
