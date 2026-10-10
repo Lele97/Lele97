@@ -107,7 +107,7 @@ I care deeply about code quality — static analysis, security scanning, and wel
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Lele97&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Lele97&theme=dark&hide_border=true" height="160"/>
   <br></br>
   <!-- Badges da GitHub API (via shields.io → api.github.com/users/Lele97) -->
 <img src="https://img.shields.io/github/followers/Lele97?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
@@ -117,9 +117,9 @@ I care deeply about code quality — static analysis, security scanning, and wel
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lele97&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
 </div>
 
-![](https://github-readme-stats.shion.dev/api?username=Lele97&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Lele97&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lele97&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Lele97&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Lele97&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lele97&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 <div data-importer="stats" align="center">
