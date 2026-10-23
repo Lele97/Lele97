@@ -97,20 +97,25 @@ I care deeply about code quality — static analysis, security scanning, and wel
 
 ## 📊 GitHub Stats
 
-<div align="center">
- 
-<img src="https://streak-stats.demolab.com/?user=Lele97&theme=dark&hide_border=true" height="160"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lele97&theme=dark&hide_border=true" height="160" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.shion.dev/api?username=Lele97&theme=dark&hide_border=true&include_all_commits=false&count_private=true)" height="160"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Lele97&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="160" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lele97&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lele97&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="160" alt="Top languages" />
+</p>
 
-<img src="https://img.shields.io/github/followers/Lele97?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Lele97?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117" alt="Followers" />
 
-<img src="https://img.shields.io/github/stars/Lele97?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/stars/Lele97?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117" alt="Total stars" />
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lele97&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lele97&label=Profile%20Views&query=%24.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github" alt="Public repositories" />
+</p>
 
-[![GitSkins template author](https://www.gitskins.com/api/creators/Lele97/badge)](https://www.gitskins.com/creators/Lele97)
-</div>
+<p align="center">
+  <a href="https://www.gitskins.com/creators/Lele97">
+    <img src="https://www.gitskins.com/api/creators/Lele97/badge" alt="GitSkins template author" />
+  </a>
+</p>
 
