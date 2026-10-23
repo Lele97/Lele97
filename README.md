@@ -110,5 +110,7 @@ I care deeply about code quality — static analysis, security scanning, and wel
 <img src="https://img.shields.io/github/stars/Lele97?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lele97&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
+
+[![GitSkins template author](https://www.gitskins.com/api/creators/Lele97/badge)](https://www.gitskins.com/creators/Lele97)
 </div>
 
