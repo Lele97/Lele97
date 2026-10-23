@@ -102,9 +102,8 @@ I care deeply about code quality — static analysis, security scanning, and wel
 <img src="https://streak-stats.demolab.com/?user=Lele97&theme=dark&hide_border=true" height="160"/>
 
 <img src="https://github-readme-stats.shion.dev/api?username=Lele97&theme=dark&hide_border=true&include_all_commits=false&count_private=true)" height="160"/>
-  
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lele97&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lele97&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="160"/>
 
 <img src="https://img.shields.io/github/followers/Lele97?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
 
